@@ -1,8 +1,5 @@
 james-15-add 
 sam-8-mul 
-chloe-2-add 
-chloe-1-add 
-chloe-5-add 
 james-3-add sub 
 james-16-add div 
 james-14-add 
