@@ -1,16 +1,12 @@
 james-15-add 
 sam-8-mul 
+chloe-2-add 
+chloe-1-add 
+chloe-5-add 
 james-3-add sub 
 james-16-add div 
 james-14-add 
 james-6-add sub 
 ad-11-sub 
 1234-25-mul 
-1234-9-add 
-1234-5-add 
-1234-14-add 
-1234-16-add 
-1234-38-add div 
-james-44-add sub div mul 
-james-6-add 
-qwery-9-add 
+james-3-add 
